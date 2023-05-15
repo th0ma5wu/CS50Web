@@ -1,0 +1,4 @@
+BootStrap - CSS Library - https://getbootstrap.com/
+Sass - for Creating variable for CSS
+sass variables.scss:variables.css - command for turning sass file to css file
+sass --watch variables.scss:variables.css - for watching sass variable change and automatically recompile de file
